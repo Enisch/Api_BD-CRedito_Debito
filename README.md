@@ -4,3 +4,6 @@ Objetivos Iniciais:
 -Inserir metodos de login do usuario,transferencia de 'dinheiro' e uso de credito;
 -Dependencia de injeção;
 -Correção dos metodos atuais do projeto;
+
+*Foi criado outro repositorio para a implementação das melhorias.
+
